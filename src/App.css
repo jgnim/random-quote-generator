@@ -1,0 +1,37 @@
+body, .btn{
+  transition-duration: 2s;
+}
+
+button{
+  padding: 15px;
+  border-radius: 5px;
+}
+
+#main-content{
+  margin-top: 150px;
+}
+
+#quote-Box{
+  background-color: white;
+  padding: 30px;
+  border-radius: 30px;  
+  width: 70%;
+  margin: auto;
+}
+#text{
+  padding:20px;
+}
+#author{
+  margin-top: 20px;
+  text-align: right;
+}
+.flex-container{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+#creator{
+  text-align: center;
+  margin-top: 25px;
+}
